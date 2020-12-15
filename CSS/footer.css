@@ -1,0 +1,56 @@
+/* POLICE TITRE : font-family: 'Texturina', serif; */
+/* POLICE TEXTE : font-family: 'Castoro', serif; */
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+#footerlogo {
+  width: 30%;
+  display: flex;
+  font-family: "Texturina", serif;
+}
+#footerlogo p {
+  margin-top: 40px;
+  align-items: center;
+}
+
+.footer_nav {
+  display: flex;
+  width: 30%;
+  padding-left: 390px;
+  font-size: x-large;
+  justify-content: space-evenly;
+}
+.footer_nav a {
+  text-decoration: none;
+  color: black;
+}
+footer {
+  display: flex;
+  justify-content: center;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* justify-content: space-around; */
+  width: 90%;
+  padding: 15px;
+}
+button {
+  background-color: white;
+  padding: 15px 32px;
+  font-family: "Open Sans", sans-serif;
+  border-radius: 5px;
+}
+
+.deco {
+  padding: 15px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+#logoBot{
+  width:170px;
+}

@@ -1,0 +1,27 @@
+/* POLICE TITRE : font-family: 'Texturina', serif; */
+/* POLICE TEXTE : font-family: 'Castoro', serif; */
+main {
+  min-height: 80vh;
+}
+p {
+  font-weight: bold;
+  text-align: center;
+}
+#bienvenue{
+  margin-left: 120px;
+}
+
+h1{
+  font-family: 'Open Sans', sans-serif;
+text-align: center;
+padding-right: 115px;
+}
+#TexteAccueil{
+  font-family: 'Space Mono', monospace;
+  width: 80%;
+text-align: center;
+align-items: center;
+margin-left: 10%;
+
+}
+

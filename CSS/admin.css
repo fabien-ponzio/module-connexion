@@ -1,0 +1,16 @@
+main {
+    height:70vh;
+}
+
+.tableau_admin{
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+table{
+    border-collapse: collapse;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    align-items: center;
+    margin-left: 27%;
+}
